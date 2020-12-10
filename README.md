@@ -1,10 +1,10 @@
 # United-Nations-Human-Rights-Twitter-Sentiment-Analysis
 
-# Tweets Word Count Disribution
+# Tweets Word Count Distribution
 
 ![unh_word_count](https://user-images.githubusercontent.com/59103315/101732273-f2e62900-3a8a-11eb-8c95-28009638c563.png)
 
-# Sentiment Disribution of the Tweets
+# Sentiment Distribution of the Tweets
 
 ![unh_sentiment_distribution](https://user-images.githubusercontent.com/59103315/101732316-02fe0880-3a8b-11eb-9bad-556b101f34ae.png)
 
